@@ -9,8 +9,8 @@ browser = webdriver.PhantomJS(
 
 #メールアドレスとパスワードを変数に保存
 
-EMAIL = "kdmgs110@icloud.com"
-PASSWORD = "kdmgs110"
+EMAIL = "daikawai110@yahoo.co.jp"
+PASSWORD = "davSyaha110"
 
 #いいねしたいカテゴリを指定する
 
@@ -119,9 +119,7 @@ time.sleep(3)
 print("3度目のスクロールです")
 
 
-
 users = browser.find_elements_by_class_name("like")
-	
 	
 # 全部いいねする
 	   

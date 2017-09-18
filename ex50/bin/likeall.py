@@ -8,8 +8,8 @@ browser = webdriver.PhantomJS(
 
 #メールアドレスとパスワードを変数に保存
 
-EMAIL = "kdmgs110@icloud.com"
-PASSWORD = "kdmgs110"
+EMAIL = "daikawai110@yahoo.co.jp"
+PASSWORD = "davSyaha110"
 
 
 #いいねした人の数をセット(後でインクリメントします。)

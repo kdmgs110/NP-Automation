@@ -1,0 +1,1 @@
+from janome.tokeninzer import Tokeninzer
